@@ -12,7 +12,7 @@
     Hello, My name is Vitor, I'm a Full Stack & Game Developer
     </h2>
  <a href="https://biturones.webflow.io">
-  <img src="https://imgur.com/a/JmT9iqk.png"/>
+  <img src="https://i.imgur.com/5KO5A3h.png"/>
 </a>
 
 
