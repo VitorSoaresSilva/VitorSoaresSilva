@@ -8,8 +8,8 @@
 
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=VitorSoaresSilva&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSoaresSilva&count_private=true&theme=tokyonight">
+  <img  src = "https://github-readme-stats-delta-peach.vercel.app/api?username=VitorSoaresSilva&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats-delta-peach.vercel.app/api/top-langs/?username=VitorSoaresSilva&count_private=true&theme=tokyonight">
 </p>
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=22nxzhrrbafxdtdeqr7c5d6jy&count=3&unique=true&width=1000)
